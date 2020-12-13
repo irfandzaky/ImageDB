@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ImageDB</string>
+    <string name="choose_file">Choose File</string>
+    <string name="enter_file_name">Enter File Name</string>
+    <string name="upload">Upload</string>
+    <string name="show_all_image">Show All Image</string>
+    <string name="todo">TODO</string>
+</resources>
